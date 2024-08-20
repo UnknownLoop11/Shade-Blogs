@@ -1,0 +1,8 @@
+asgiref==3.7.2
+distlib==0.3.8
+packaging==23.1
+Pillow==9.5.0
+platformdirs==4.2.2
+tzdata==2023.3
+vboxapi==1.0
+virtualenv==20.26.3
