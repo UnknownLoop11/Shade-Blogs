@@ -11,3 +11,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 - Once the dependencies are installed, Run ```flask run``` to start the local server.
+---
+
+![Screenshot (47)](https://github.com/user-attachments/assets/f9b7edd5-f53f-43c7-853a-ce47b919d00d)
